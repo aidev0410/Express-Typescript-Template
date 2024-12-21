@@ -1,6 +1,6 @@
 # Express Typescript Template
 
-Build a simple backend template using express and typescript.
+A template to build a backend project using Express and Typescript.
 
 ## Tasks
 
